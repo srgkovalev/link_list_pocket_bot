@@ -7,7 +7,7 @@ import (
 )
 
 const (
-	token = "6644069287:AAGZ-CH0jzO6RRWT0Z_ayXH8kxybLz3nO0U"
+	token = "123"
 )
 
 func main() {
